@@ -1,0 +1,2 @@
+0 ARTIST art
+1 AI art
